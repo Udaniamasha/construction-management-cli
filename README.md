@@ -13,7 +13,7 @@ A Python-based Command Line Interface (CLI) tool designed for XYZ Construction C
 1. Ensure Python 3.x is installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/construction-management-cli.git
+   git clone https://github.com/Udaniamasha/construction-management-cli.git
 
 ## Technologies Used
 Python 3
